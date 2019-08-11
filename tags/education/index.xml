@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education | Corbin Miller</title>
+    <link>https://corbinlm.github.io/tags/education/</link>
+      <atom:link href="https://corbinlm.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2019 16:35:56 -0400</lastBuildDate>
+    <image>
+      <url>https://corbinlm.github.io/img/icon-192.png</url>
+      <title>Education</title>
+      <link>https://corbinlm.github.io/tags/education/</link>
+    </image>
+    
+    <item>
+      <title>Traditional Public School District Resources and Charter School Competition</title>
+      <link>https://corbinlm.github.io/project/ohio_levies/</link>
+      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
+      <guid>https://corbinlm.github.io/project/ohio_levies/</guid>
+      <description>&lt;p&gt;In this study, we explore the effect of education spending on school quality. Using the results of over ten years of property tax elections in a regression discontinuity framework we estimate the effect of two types of spending (capital and instructional) on two types of quality measures (direct measures through student test scores and indirect measures through capitalization and school choice). Preliminary results suggest that districts narrowly passing a capital bond (general levy) increase subsequent capital outlays (instructional expenditures). Neither type of referendum-generated expenditure increase has any statistically significant effect on test scores. Capital outlays temporarily shield against future student transfers to digital charter schools while general-purpose levies temporarily shield against future student transfers to brick and mortar charter schools. We also find evidence that passing either capital or general purpose levies translate into higher housing values.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

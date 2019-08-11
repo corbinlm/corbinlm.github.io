@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corbin Miller</title>
+    <link>https://corbinlm.github.io/</link>
+      <atom:link href="https://corbinlm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Corbin Miller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
+    <image>
+      <url>https://corbinlm.github.io/img/icon-192.png</url>
+      <title>Corbin Miller</title>
+      <link>https://corbinlm.github.io/</link>
+    </image>
+    
+    <item>
+      <title>The Distribution of Employer-Sponsored Health Insurance Premiums</title>
+      <link>https://corbinlm.github.io/project/premiums/</link>
+      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
+      <guid>https://corbinlm.github.io/project/premiums/</guid>
+      <description>&lt;p&gt;Rapid increases in employer-sponsored health insurance premiums are a growing concern for policymakers. Given this concern, it is important to understand how these premium costs are distributed across employees. We use newly available tax data to shed light on the distribution. More specifically, employers with more than 250 employees are required to report the total premiums paid by both employers and employees to the IRS on Form W-2. We are the first to use employer-employee-linked administrative data to measure the distribution and correlates of health insurance premiums in the United States. In particular, we link premium information from Code DD on Form W-2 with information from Forms 1095-B and 1095-C. Combining the total premium information with months and type of coverage allows us to calculate an annualized premium comparable to survey data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Interactions and Smoking Initiation</title>
+      <link>https://corbinlm.github.io/project/intergen_smoking/</link>
+      <pubDate>Sat, 10 Aug 2019 15:44:15 -0400</pubDate>
+      <guid>https://corbinlm.github.io/project/intergen_smoking/</guid>
+      <description>&lt;p&gt;This paper explores the role of social interactions on a youth&amp;rsquo;s decision to begin smoking. Specifically, we estimate the effect of cigarette taxes during early childhood on beginning smoking later in adolescence in a discrete-time hazard model. These taxes do not directly affect children but may change the prevalence of smoking among parents, older relatives, or other adults. We find that a $0.25 cigarette tax increase during childhood decreases smoking initiation by 12.5 percent. Our results suggest that parents and older siblings do not account for the entire intergenerational effect, so other members of the community also likely play a role. Prior work understates the total effect of cigarette taxes by not considering this indirect channel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Effect of Education Spending on Student Achievement</title>
+      <link>https://corbinlm.github.io/project/jmp/</link>
+      <pubDate>Sat, 10 Aug 2019 15:24:56 -0400</pubDate>
+      <guid>https://corbinlm.github.io/project/jmp/</guid>
+      <description>&lt;p&gt;Opportunities to estimate the causal effect of school spending on student achievement are infrequent and have been based, almost entirely, on variation in spending from large school finance reforms.
+Property values also affect school spending through both local property tax revenue and the level of state aid provided to each school district.
+However, little is known about the effect property values have on student achievement through their impact on school revenue.
+In this paper, I estimate the effect of education spending on district-level student outcomes in 24 states by leveraging changes in revenue driven by property value variation.
+I interact state-level changes in property values with fixed school finance formulas that measure how state aid and local revenue respond to those changes (the &amp;ldquo;wealth price&amp;rdquo;) to create a simulated instrument for school spending.
+By collecting administrative data on property values for over 7,000 school districts, I am able to measure a leave-one-out mean change in property values for school districts in each state.
+The instrument is highly predictive of changes in revenue and spending.
+My estimates suggest that a 10 percent increase in spending improves graduation rates by 3 to 5 percentage points and student test scores by 0.07 to 0.09 standard deviations.
+These results suggest that market variation in property values affects student outcomes through existing school finance formulas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Employers and Disability Insurance: Evidence from Individual Tax Returns</title>
+      <link>https://corbinlm.github.io/project/employers_di/</link>
+      <pubDate>Fri, 09 Aug 2019 16:40:48 -0400</pubDate>
+      <guid>https://corbinlm.github.io/project/employers_di/</guid>
+      <description>&lt;p&gt;In this paper, we provide new evidence on the distribution of claims in the Social Security Disability Insurance (SSDI) program across employers and industries.
+We also relate SSDI claims to employer and employee wage premiums and discuss implications for measures of inequality.
+Our research makes use of the universe of individual tax returns for the period 2000-2018, which allows to develop measures of the incidence of SSDI claims for all U.S. firms and industries.
+We have two main findings.
+First, we find that there is substantial variation in SSDI claiming rates across firms and industries.
+Second, we find that there is a negative association between firm wage premiums and SSDI claiming rates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Traditional Public School District Resources and Charter School Competition</title>
+      <link>https://corbinlm.github.io/project/ohio_levies/</link>
+      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
+      <guid>https://corbinlm.github.io/project/ohio_levies/</guid>
+      <description>&lt;p&gt;In this study, we explore the effect of education spending on school quality. Using the results of over ten years of property tax elections in a regression discontinuity framework we estimate the effect of two types of spending (capital and instructional) on two types of quality measures (direct measures through student test scores and indirect measures through capitalization and school choice). Preliminary results suggest that districts narrowly passing a capital bond (general levy) increase subsequent capital outlays (instructional expenditures). Neither type of referendum-generated expenditure increase has any statistically significant effect on test scores. Capital outlays temporarily shield against future student transfers to digital charter schools while general-purpose levies temporarily shield against future student transfers to brick and mortar charter schools. We also find evidence that passing either capital or general purpose levies translate into higher housing values.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

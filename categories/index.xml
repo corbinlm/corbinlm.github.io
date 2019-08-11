@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Corbin Miller</title>
+    <link>https://corbinlm.github.io/categories/</link>
+      <atom:link href="https://corbinlm.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
+    <image>
+      <url>https://corbinlm.github.io/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://corbinlm.github.io/categories/</link>
+    </image>
+    
+    <item>
+      <title>Health</title>
+      <link>https://corbinlm.github.io/categories/health/</link>
+      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
+      <guid>https://corbinlm.github.io/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://corbinlm.github.io/categories/research/</link>
+      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
+      <guid>https://corbinlm.github.io/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tax</title>
+      <link>https://corbinlm.github.io/categories/tax/</link>
+      <pubDate>Sat, 10 Aug 2019 15:44:15 -0400</pubDate>
+      <guid>https://corbinlm.github.io/categories/tax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://corbinlm.github.io/categories/education/</link>
+      <pubDate>Sat, 10 Aug 2019 15:24:56 -0400</pubDate>
+      <guid>https://corbinlm.github.io/categories/education/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health Insurance | Corbin Miller</title>
+    <link>https://corbinlm.github.io/tags/health-insurance/</link>
+      <atom:link href="https://corbinlm.github.io/tags/health-insurance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Health Insurance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
+    <image>
+      <url>https://corbinlm.github.io/img/icon-192.png</url>
+      <title>Health Insurance</title>
+      <link>https://corbinlm.github.io/tags/health-insurance/</link>
+    </image>
+    
+    <item>
+      <title>The Distribution of Employer-Sponsored Health Insurance Premiums</title>
+      <link>https://corbinlm.github.io/project/premiums/</link>
+      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
+      <guid>https://corbinlm.github.io/project/premiums/</guid>
+      <description>&lt;p&gt;Rapid increases in employer-sponsored health insurance premiums are a growing concern for policymakers. Given this concern, it is important to understand how these premium costs are distributed across employees. We use newly available tax data to shed light on the distribution. More specifically, employers with more than 250 employees are required to report the total premiums paid by both employers and employees to the IRS on Form W-2. We are the first to use employer-employee-linked administrative data to measure the distribution and correlates of health insurance premiums in the United States. In particular, we link premium information from Code DD on Form W-2 with information from Forms 1095-B and 1095-C. Combining the total premium information with months and type of coverage allows us to calculate an annualized premium comparable to survey data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
