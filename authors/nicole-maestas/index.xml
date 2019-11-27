@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicole Maestas | Corbin Miller</title>
-    <link>https://corbinlm.github.io/authors/nicole-maestas/</link>
-      <atom:link href="https://corbinlm.github.io/authors/nicole-maestas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corbinmiller.website/authors/nicole-maestas/</link>
+      <atom:link href="https://corbinmiller.website/authors/nicole-maestas/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicole Maestas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2019 16:40:48 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2019</copyright><lastBuildDate>Fri, 09 Aug 2019 16:40:48 -0400</lastBuildDate>
     <image>
-      <url>https://corbinlm.github.io/img/icon-192.png</url>
+      <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Nicole Maestas</title>
-      <link>https://corbinlm.github.io/authors/nicole-maestas/</link>
+      <link>https://corbinmiller.website/authors/nicole-maestas/</link>
     </image>
     
     <item>
       <title>Employers and Disability Insurance: Evidence from Individual Tax Returns</title>
-      <link>https://corbinlm.github.io/project/employers_di/</link>
+      <link>https://corbinmiller.website/project/employers_di/</link>
       <pubDate>Fri, 09 Aug 2019 16:40:48 -0400</pubDate>
-      <guid>https://corbinlm.github.io/project/employers_di/</guid>
+      <guid>https://corbinmiller.website/project/employers_di/</guid>
       <description>&lt;p&gt;In this paper, we provide new evidence on the distribution of claims in the Social Security Disability Insurance (SSDI) program across employers and industries.
 We also relate SSDI claims to employer and employee wage premiums and discuss implications for measures of inequality.
 Our research makes use of the universe of individual tax returns for the period 2000-2018, which allows to develop measures of the incidence of SSDI claims for all U.S. firms and industries.

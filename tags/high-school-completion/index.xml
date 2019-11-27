@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High School Completion | Corbin Miller</title>
-    <link>https://corbinlm.github.io/tags/high-school-completion/</link>
-      <atom:link href="https://corbinlm.github.io/tags/high-school-completion/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corbinmiller.website/tags/high-school-completion/</link>
+      <atom:link href="https://corbinmiller.website/tags/high-school-completion/index.xml" rel="self" type="application/rss+xml" />
     <description>High School Completion</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 15:24:56 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2019</copyright><lastBuildDate>Sat, 10 Aug 2019 15:24:56 -0400</lastBuildDate>
     <image>
-      <url>https://corbinlm.github.io/img/icon-192.png</url>
+      <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>High School Completion</title>
-      <link>https://corbinlm.github.io/tags/high-school-completion/</link>
+      <link>https://corbinmiller.website/tags/high-school-completion/</link>
     </image>
     
     <item>
       <title>The Effect of Education Spending on Student Achievement</title>
-      <link>https://corbinlm.github.io/project/jmp/</link>
+      <link>https://corbinmiller.website/project/jmp/</link>
       <pubDate>Sat, 10 Aug 2019 15:24:56 -0400</pubDate>
-      <guid>https://corbinlm.github.io/project/jmp/</guid>
+      <guid>https://corbinmiller.website/project/jmp/</guid>
       <description>&lt;p&gt;Opportunities to estimate the causal effect of school spending on student achievement are infrequent and have been based, almost entirely, on variation in spending from large school finance reforms.
 Property values also affect school spending through both local property tax revenue and the level of state aid provided to each school district.
 However, little is known about the effect property values have on student achievement through their impact on school revenue.

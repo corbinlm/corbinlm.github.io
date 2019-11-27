@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Austin Miller | Corbin Miller</title>
-    <link>https://corbinlm.github.io/authors/austin-miller/</link>
-      <atom:link href="https://corbinlm.github.io/authors/austin-miller/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://corbinmiller.website/authors/austin-miller/</link>
+      <atom:link href="https://corbinmiller.website/authors/austin-miller/index.xml" rel="self" type="application/rss+xml" />
     <description>Austin Miller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2019 15:44:15 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2019</copyright><lastBuildDate>Sat, 10 Aug 2019 15:44:15 -0400</lastBuildDate>
     <image>
-      <url>https://corbinlm.github.io/img/icon-192.png</url>
+      <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Austin Miller</title>
-      <link>https://corbinlm.github.io/authors/austin-miller/</link>
+      <link>https://corbinmiller.website/authors/austin-miller/</link>
     </image>
     
     <item>
       <title>Social Interactions and Smoking Initiation</title>
-      <link>https://corbinlm.github.io/project/intergen_smoking/</link>
+      <link>https://corbinmiller.website/project/intergen_smoking/</link>
       <pubDate>Sat, 10 Aug 2019 15:44:15 -0400</pubDate>
-      <guid>https://corbinlm.github.io/project/intergen_smoking/</guid>
+      <guid>https://corbinmiller.website/project/intergen_smoking/</guid>
       <description>&lt;p&gt;This paper explores the role of social interactions on a youth&amp;rsquo;s decision to begin smoking. Specifically, we estimate the effect of cigarette taxes during early childhood on beginning smoking later in adolescence in a discrete-time hazard model. These taxes do not directly affect children but may change the prevalence of smoking among parents, older relatives, or other adults. We find that a $0.25 cigarette tax increase during childhood decreases smoking initiation by 12.5 percent. Our results suggest that parents and older siblings do not account for the entire intergenerational effect, so other members of the community also likely play a role. Prior work understates the total effect of cigarette taxes by not considering this indirect channel.&lt;/p&gt;
 </description>
     </item>
