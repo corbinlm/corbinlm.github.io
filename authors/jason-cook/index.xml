@@ -5,7 +5,7 @@
     <link>https://corbinmiller.website/authors/jason-cook/</link>
       <atom:link href="https://corbinmiller.website/authors/jason-cook/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Cook</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 09 Aug 2019 16:35:56 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 09 Aug 2019 16:35:56 -0400</lastBuildDate>
     <image>
       <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Jason Cook</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Traditional Public School District Resources and Charter School Competition</title>
+      <title>Rent-Seeking through Collective Bargaining</title>
       <link>https://corbinmiller.website/project/ohio_levies/</link>
       <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
       <guid>https://corbinmiller.website/project/ohio_levies/</guid>
-      <description>&lt;p&gt;In this study, we explore the effect of education spending on school quality. Using the results of over ten years of property tax elections in a regression discontinuity framework we estimate the effect of two types of spending (capital and instructional) on two types of quality measures (direct measures through student test scores and indirect measures through capitalization and school choice). Preliminary results suggest that districts narrowly passing a capital bond (general levy) increase subsequent capital outlays (instructional expenditures). Neither type of referendum-generated expenditure increase has any statistically significant effect on test scores. Capital outlays temporarily shield against future student transfers to digital charter schools while general-purpose levies temporarily shield against future student transfers to brick and mortar charter schools. We also find evidence that passing either capital or general purpose levies translate into higher housing values.&lt;/p&gt;
+      <description>&lt;p&gt;We explore how teachers unions affect education production by comparing outcomes between districts allocating new tax revenue amidst collective bargaining negotiations and districts allocating tax revenue well before. Districts facing union pressure increase teacher salaries and benefits, spend down reserves, and experience no student achievement gains. Conversely, districts facing less pressure hire more teachers (instead of increasing compensation) and realize significant student achievement gains. We interpret these results as causal evidence of the negative impact of teacher rent seeking on education production, as the timing of district tax elections relative to collective bargaining appears to be as good as random.&lt;/p&gt;
 </description>
     </item>
     

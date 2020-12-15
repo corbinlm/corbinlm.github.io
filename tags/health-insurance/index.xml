@@ -5,7 +5,7 @@
     <link>https://corbinmiller.website/tags/health-insurance/</link>
       <atom:link href="https://corbinmiller.website/tags/health-insurance/index.xml" rel="self" type="application/rss+xml" />
     <description>Health Insurance</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
     <image>
       <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Health Insurance</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>The Distribution of Employer-Sponsored Health Insurance Premiums</title>
+      <title>Employer-Sponsored Health Insurance Premiums and Income in US Tax Data</title>
       <link>https://corbinmiller.website/project/premiums/</link>
       <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
       <guid>https://corbinmiller.website/project/premiums/</guid>
-      <description>&lt;p&gt;Rapid increases in employer-sponsored health insurance premiums are a growing concern for policymakers. Given this concern, it is important to understand how these premium costs are distributed across employees. We use newly available tax data to shed light on the distribution. More specifically, employers with more than 250 employees are required to report the total premiums paid by both employers and employees to the IRS on Form W-2. We are the first to use employer-employee-linked administrative data to measure the distribution and correlates of health insurance premiums in the United States. In particular, we link premium information from Code DD on Form W-2 with information from Forms 1095-B and 1095-C. Combining the total premium information with months and type of coverage allows us to calculate an annualized premium comparable to survey data.&lt;/p&gt;
+      <description>&lt;p&gt;Currently available survey data does not capture important information about the distribution of employer-sponsored health insurance premiums in the US. We provide new evidence, based on administrative tax data, about the relationship of premiums to individual characteristics such as income. First, we demonstrate that premiums measured in the tax data are comparable to what we know from survey data. Then we show that those with higher incomes have more expensive policies. In fact, those in the top 10 percent of the income distribution account for 21 percent of total premiums. Even with these disparities, there is substantially less inequality in spending on ESI than in income overall.&lt;/p&gt;
 </description>
     </item>
     

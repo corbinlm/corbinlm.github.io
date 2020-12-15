@@ -1,118 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://corbinmiller.website/tags/administrative-data/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/authors/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/categories/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/employer-sponsored-health-insurance/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/categories/health/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/tags/health-insurance/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/authors/ithai-lurie/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/tags/premiums/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/project/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/categories/research/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/tags/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/tags/tax-data/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/project/premiums/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/categories/health/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/tags/health-insurance/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/tags/inequality/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/authors/ithai-lurie/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/tags/premiums/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/project/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/categories/research/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/tags/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/tags/tax-data/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/authors/austin-miller/</loc>
     <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/cigarette-taxes/</loc>
     <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/smoking/</loc>
     <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/smoking-initiation/</loc>
     <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/social-interactions/</loc>
     <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -122,50 +109,42 @@
   
   <url>
     <loc>https://corbinmiller.website/categories/tax/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/categories/education/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/education-finance/</loc>
     <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/high-school-completion/</loc>
     <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/property-tax/</loc>
-    <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/property-values/</loc>
     <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/student-achievement/</loc>
     <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/test-scores/</loc>
     <lastmod>2019-08-10T22:40:16-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -175,60 +154,62 @@
   
   <url>
     <loc>https://corbinmiller.website/authors/daniel-prinz/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/disability-insurance/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/project/employers_di/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/authors/nicole-maestas/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/wage-premium/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/tags/charter-school-competition/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/tags/education/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/authors/jason-cook/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://corbinmiller.website/tags/school-finance/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://corbinmiller.website/project/ohio_levies/</loc>
-    <lastmod>2019-08-10T22:24:52-04:00</lastmod>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/tags/school-finance/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/authors/stephane-lavertu/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/tags/teachers-unions/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://corbinmiller.website/tags/union-bargaining/</loc>
+    <lastmod>2020-12-15T12:05:03-05:00</lastmod>
   </url>
   
   <url>
@@ -243,7 +224,6 @@
   
   <url>
     <loc>https://corbinmiller.website/publication_types/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

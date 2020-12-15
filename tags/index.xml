@@ -5,7 +5,7 @@
     <link>https://corbinmiller.website/tags/</link>
       <atom:link href="https://corbinmiller.website/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
     <image>
       <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Tags</title>
@@ -33,6 +33,14 @@
       <link>https://corbinmiller.website/tags/health-insurance/</link>
       <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
       <guid>https://corbinmiller.website/tags/health-insurance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequality</title>
+      <link>https://corbinmiller.website/tags/inequality/</link>
+      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
+      <guid>https://corbinmiller.website/tags/inequality/</guid>
       <description></description>
     </item>
     
@@ -149,14 +157,6 @@
     </item>
     
     <item>
-      <title>Charter School Competition</title>
-      <link>https://corbinmiller.website/tags/charter-school-competition/</link>
-      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/tags/charter-school-competition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Education</title>
       <link>https://corbinmiller.website/tags/education/</link>
       <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
@@ -169,6 +169,22 @@
       <link>https://corbinmiller.website/tags/school-finance/</link>
       <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
       <guid>https://corbinmiller.website/tags/school-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teachers Unions</title>
+      <link>https://corbinmiller.website/tags/teachers-unions/</link>
+      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
+      <guid>https://corbinmiller.website/tags/teachers-unions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Union Bargaining</title>
+      <link>https://corbinmiller.website/tags/union-bargaining/</link>
+      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
+      <guid>https://corbinmiller.website/tags/union-bargaining/</guid>
       <description></description>
     </item>
     

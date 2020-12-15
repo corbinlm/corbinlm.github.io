@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inequality | Corbin Miller</title>
+    <link>https://corbinmiller.website/tags/inequality/</link>
+      <atom:link href="https://corbinmiller.website/tags/inequality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inequality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
+    <image>
+      <url>https://corbinmiller.website/img/icon-192.png</url>
+      <title>Inequality</title>
+      <link>https://corbinmiller.website/tags/inequality/</link>
+    </image>
+    
+    <item>
+      <title>Employer-Sponsored Health Insurance Premiums and Income in US Tax Data</title>
+      <link>https://corbinmiller.website/project/premiums/</link>
+      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
+      <guid>https://corbinmiller.website/project/premiums/</guid>
+      <description>&lt;p&gt;Currently available survey data does not capture important information about the distribution of employer-sponsored health insurance premiums in the US. We provide new evidence, based on administrative tax data, about the relationship of premiums to individual characteristics such as income. First, we demonstrate that premiums measured in the tax data are comparable to what we know from survey data. Then we show that those with higher incomes have more expensive policies. In fact, those in the top 10 percent of the income distribution account for 21 percent of total premiums. Even with these disparities, there is substantially less inequality in spending on ESI than in income overall.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
