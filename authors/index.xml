@@ -5,12 +5,44 @@
     <link>https://corbinmiller.website/authors/</link>
       <atom:link href="https://corbinmiller.website/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 15 Dec 2020 09:04:42 -0500</lastBuildDate>
     <image>
       <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://corbinmiller.website/authors/</link>
     </image>
+    
+    <item>
+      <title>Adam Isen</title>
+      <link>https://corbinmiller.website/authors/adam-isen/</link>
+      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
+      <guid>https://corbinmiller.website/authors/adam-isen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Greenberg</title>
+      <link>https://corbinmiller.website/authors/kyle-greenberg/</link>
+      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
+      <guid>https://corbinmiller.website/authors/kyle-greenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew Gudgeon</title>
+      <link>https://corbinmiller.website/authors/matthew-gudgeon/</link>
+      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
+      <guid>https://corbinmiller.website/authors/matthew-gudgeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Patterson</title>
+      <link>https://corbinmiller.website/authors/richard-patterson/</link>
+      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
+      <guid>https://corbinmiller.website/authors/richard-patterson/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ithai Lurie</title>

@@ -5,7 +5,7 @@
     <link>https://corbinmiller.website/categories/</link>
       <atom:link href="https://corbinmiller.website/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 10 Aug 2019 16:04:42 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 15 Dec 2020 09:04:42 -0500</lastBuildDate>
     <image>
       <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Health</title>
-      <link>https://corbinmiller.website/categories/health/</link>
-      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
-      <guid>https://corbinmiller.website/categories/health/</guid>
+      <title>Labor</title>
+      <link>https://corbinmiller.website/categories/labor/</link>
+      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
+      <guid>https://corbinmiller.website/categories/labor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
       <link>https://corbinmiller.website/categories/research/</link>
-      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
+      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
       <guid>https://corbinmiller.website/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://corbinmiller.website/categories/health/</link>
+      <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
+      <guid>https://corbinmiller.website/categories/health/</guid>
       <description></description>
     </item>
     

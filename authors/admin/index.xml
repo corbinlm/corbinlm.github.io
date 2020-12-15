@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Army Service in the All-Volunteer Era</title>
+      <link>https://corbinmiller.website/project/army/</link>
+      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
+      <guid>https://corbinmiller.website/project/army/</guid>
+      <description>&lt;p&gt;The United States has relied exclusively on volunteers to serve in the military since July 1, 1973. Millions have since enlisted in the military, and these volunteers are disproportionately Black and from lower-income households, yet we know relatively little about whether enlistment improves or worsens their prospects. This paper links the universe of Army applicants between 1990 and 2011 to IRS data and exploits eligibility thresholds at the 31st and 50th percentile of the nationally-representative Armed Forces Qualifying Test (AFQT) in a regression discontinuity design to estimate the long-term, dynamic effects of Army enlistment on earnings and related outcomes. We show that Army service increases short-run earnings following Army application at both cutoffs. Enlistment increases long-run earnings at the higher cutoff, but at the lower cutoff long-run earnings gains are closer to zero and employment effects are negative, suggesting there are positive effects overall but that a small subset experience negative long term effects that a distributional analysis and findings on work-limiting disability confirm.  We also find that Army service increases college attendance, homeownership, marriage, and non-work-limiting disability compensation.  Finally, we uncover striking heterogeneity by race, with Black servicemembers experiencing larger long-term increases in earnings, marriage, and home-ownership at both cutoffs. We explore several potential channels for this heterogeneity including differential pre-application backgrounds and counterfactual opportunities, service experiences, and take-up of military benefits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Employer-Sponsored Health Insurance Premiums and Income in US Tax Data</title>
       <link>https://corbinmiller.website/project/premiums/</link>
       <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
