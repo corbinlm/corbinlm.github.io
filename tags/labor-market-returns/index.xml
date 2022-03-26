@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labor Market Returns | Corbin Miller</title>
+    <link>https://corbinmiller.website/tags/labor-market-returns/</link>
+      <atom:link href="https://corbinmiller.website/tags/labor-market-returns/index.xml" rel="self" type="application/rss+xml" />
+    <description>Labor Market Returns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 15 Dec 2020 09:04:42 -0500</lastBuildDate>
+    <image>
+      <url>https://corbinmiller.website/img/icon-192.png</url>
+      <title>Labor Market Returns</title>
+      <link>https://corbinmiller.website/tags/labor-market-returns/</link>
+    </image>
+    
+    <item>
+      <title>Army Service in the All-Volunteer Era</title>
+      <link>https://corbinmiller.website/project/army/</link>
+      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
+      <guid>https://corbinmiller.website/project/army/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Revise &amp;amp; Resubmit, Quarterly Journal of Economics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Since the beginning of the all-volunteer era, millions of young Americans have chosen to enlist in the military. These volunteers disproportionately come from disadvantaged backgrounds, and while some aspects of military service are likely to be beneficial, exposure to violence and other elements of service could worsen outcomes. This paper links the universe of Army applicants between 1990 and 2011 to their federal tax records and other administrative data and uses two eligibility thresholds in the Armed Forces Qualifying Test (AFQT) in a regression discontinuity design to estimate the effects of Army enlistment on earnings and related outcomes. In the 19 years following application, Army service increases average annual earnings by over $4,000 at both cutoffs. However, whether service increases long-run earnings varies significantly by race. Black servicemembers experience annual gains of $5,500 to $15,000 11-19 years after applying while White servicemembers do not experience significant changes. By providing Black servicemembers a stable and well-paying Army job and by opening doors to higher-paid post-service employment, the Army significantly closes the Black-White earnings gap in our sample.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Does School Spending Pay For Itself? Long-run Effects on Personal Income</title>
+      <link>https://corbinmiller.website/project/school_spending/</link>
+      <pubDate>Fri, 09 Aug 2019 16:40:48 -0400</pubDate>
+      <guid>https://corbinmiller.website/project/school_spending/</guid>
+      <description>&lt;p&gt;Over the past half-century, court-ordered increases in public school spending dramatically changed the level and distribution of school resources in the United States. Recent evidence from surveys suggests that school finance reforms improved students’ short- and long-run outcomes. However, the policy implications remain unclear because, although observed effects are significantly different from zero, we do not know whether the benefits exceed the costs, or whether the internal rate of return exceeds benchmark interest rates. This paper seeks to improve on past cost-benefit estimates by using population-scale longitudinal administrative tax data, which allow us to: (1) measure effects on lifecycle income, with age-specific estimates for each age from 14 to 34, each based on the outcomes for 21 birth cohorts (from 1965-2006); (2) correct for family unobservables and migration that may bias estimates upwards; and (3) correct for mis-measurement of childhood exposures that may bias estimates downwards. We build on past work using reforms to instrument for school spending, and thus provide an independent check on those crucial estimates.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
