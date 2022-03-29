@@ -5,12 +5,36 @@
     <link>https://corbinmiller.website/categories/</link>
       <atom:link href="https://corbinmiller.website/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 15 Dec 2020 09:04:42 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://corbinmiller.website/categories/</link>
     </image>
+    
+    <item>
+      <title>Education</title>
+      <link>https://corbinmiller.website/categories/education/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Finance</title>
+      <link>https://corbinmiller.website/categories/public-finance/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/categories/public-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tax</title>
+      <link>https://corbinmiller.website/categories/tax/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/categories/tax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Labor</title>
@@ -21,34 +45,10 @@
     </item>
     
     <item>
-      <title>Public Finance</title>
-      <link>https://corbinmiller.website/categories/public-finance/</link>
-      <pubDate>Tue, 15 Dec 2020 09:04:42 -0500</pubDate>
-      <guid>https://corbinmiller.website/categories/public-finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Health</title>
       <link>https://corbinmiller.website/categories/health/</link>
       <pubDate>Sat, 10 Aug 2019 16:04:42 -0400</pubDate>
       <guid>https://corbinmiller.website/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tax</title>
-      <link>https://corbinmiller.website/categories/tax/</link>
-      <pubDate>Sat, 10 Aug 2019 15:44:15 -0400</pubDate>
-      <guid>https://corbinmiller.website/categories/tax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://corbinmiller.website/categories/education/</link>
-      <pubDate>Sat, 10 Aug 2019 15:24:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/categories/education/</guid>
       <description></description>
     </item>
     

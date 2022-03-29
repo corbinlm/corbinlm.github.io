@@ -5,12 +5,28 @@
     <link>https://corbinmiller.website/authors/</link>
       <atom:link href="https://corbinmiller.website/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 15 Dec 2020 09:04:42 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://corbinmiller.website/authors/</link>
     </image>
+    
+    <item>
+      <title>Jason Cook</title>
+      <link>https://corbinmiller.website/authors/jason-cook/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/authors/jason-cook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stéphane Lavertu</title>
+      <link>https://corbinmiller.website/authors/stephane-lavertu/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/authors/stephane-lavertu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adam Isen</title>
@@ -113,22 +129,6 @@
       <link>https://corbinmiller.website/authors/zihan-hu/</link>
       <pubDate>Fri, 09 Aug 2019 16:40:48 -0400</pubDate>
       <guid>https://corbinmiller.website/authors/zihan-hu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jason Cook</title>
-      <link>https://corbinmiller.website/authors/jason-cook/</link>
-      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/authors/jason-cook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stéphane Lavertu</title>
-      <link>https://corbinmiller.website/authors/stephane-lavertu/</link>
-      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/authors/stephane-lavertu/</guid>
       <description></description>
     </item>
     

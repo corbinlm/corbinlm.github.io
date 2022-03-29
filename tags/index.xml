@@ -5,12 +5,52 @@
     <link>https://corbinmiller.website/tags/</link>
       <atom:link href="https://corbinmiller.website/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 15 Dec 2020 09:04:42 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://corbinmiller.website/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://corbinmiller.website/tags/</link>
     </image>
+    
+    <item>
+      <title>Education</title>
+      <link>https://corbinmiller.website/tags/education/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education Finance</title>
+      <link>https://corbinmiller.website/tags/education-finance/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/tags/education-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property Tax</title>
+      <link>https://corbinmiller.website/tags/property-tax/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/tags/property-tax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teachers Unions</title>
+      <link>https://corbinmiller.website/tags/teachers-unions/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/tags/teachers-unions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Union Bargaining</title>
+      <link>https://corbinmiller.website/tags/union-bargaining/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://corbinmiller.website/tags/union-bargaining/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Administrative Data</title>
@@ -117,26 +157,10 @@
     </item>
     
     <item>
-      <title>Education Finance</title>
-      <link>https://corbinmiller.website/tags/education-finance/</link>
-      <pubDate>Sat, 10 Aug 2019 15:24:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/tags/education-finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>High School Completion</title>
       <link>https://corbinmiller.website/tags/high-school-completion/</link>
       <pubDate>Sat, 10 Aug 2019 15:24:56 -0400</pubDate>
       <guid>https://corbinmiller.website/tags/high-school-completion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Property Tax</title>
-      <link>https://corbinmiller.website/tags/property-tax/</link>
-      <pubDate>Sat, 10 Aug 2019 15:24:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/tags/property-tax/</guid>
       <description></description>
     </item>
     
@@ -209,30 +233,6 @@
       <link>https://corbinmiller.website/tags/wage-premium/</link>
       <pubDate>Fri, 09 Aug 2019 16:40:48 -0400</pubDate>
       <guid>https://corbinmiller.website/tags/wage-premium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://corbinmiller.website/tags/education/</link>
-      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teachers Unions</title>
-      <link>https://corbinmiller.website/tags/teachers-unions/</link>
-      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/tags/teachers-unions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Union Bargaining</title>
-      <link>https://corbinmiller.website/tags/union-bargaining/</link>
-      <pubDate>Fri, 09 Aug 2019 16:35:56 -0400</pubDate>
-      <guid>https://corbinmiller.website/tags/union-bargaining/</guid>
       <description></description>
     </item>
     
